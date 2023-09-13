@@ -1,0 +1,36 @@
+.hero{
+    background-color: #352F44;
+}
+
+h1{
+    color: #FAF0E6; 
+    text-align: right;
+}
+.Kyrysha{
+    text-decoration:underline;
+}
+img{
+    mix-blend-mode: multiply;
+    color:#FAF0E6; 
+}
+.skills{
+    background-color: #5C5470;
+}
+h2{
+    color: #FAF0E6;
+    font-size: 3rem;
+}
+p{
+    font-size: 2rem;
+    color: #FAF0E6;
+}
+li{
+    font-size: 2rem;
+    color: #FAF0E6;
+}
+.footer{
+    background-color: #B9B4C7;
+}
+.nav-item{
+    color:#FAF0E6
+}
